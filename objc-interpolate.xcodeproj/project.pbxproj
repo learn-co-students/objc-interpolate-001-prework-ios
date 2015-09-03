@@ -449,7 +449,6 @@
 		};
 		15CFEE8E1A213097D77BE423 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = B20A17C12718C38C80DC15AD /* Pods-unit_tests.debug.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/objc-interpolate.app/objc-interpolate";
 				FRAMEWORK_SEARCH_PATHS = (
@@ -493,7 +492,6 @@
 		};
 		E8D6E4C56B3BA74977F27DAC /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 3B39751F58852A28A2257772 /* Pods-unit_tests.release.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/objc-interpolate.app/objc-interpolate";
 				FRAMEWORK_SEARCH_PATHS = (
