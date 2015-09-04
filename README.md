@@ -9,9 +9,14 @@
 
 ## Instructions
 
-Fork and clone this lab. Open the `objc-interpolate.xcodeproj` file and navigate to the `FISAppDelegate.m` file. 
+Fork and clone this lab. Open the `objc-interpolate.xcodeproj` file and navigate to the `FISAppDelegate.m` file by clicking on the file name in Project Navigator in the leftmost panel know as the "Navigation area". You should see the filename appear at the top of the Code Editor; this, along with looking for the `@implementation FISAppDelegate` line in the code, can be used to verify that you are in the correct file.
 
-Write your code inside the `application:didFinishLaunchingWithOptions:` method before the `return YES;` statement.
+![](https://curriculum-content.s3.amazonaws.com/ios/ios-objc-fundamentals-unit/interpolate_FISAppDelegate.png)
+
+Write your own code inside the `application:didFinishLaunchingWithOptions:` method **before the `return YES;` statement.** Your `NSLog()`s will print strings to the debug console in the bottom panel known as the "Debug area".
+
+![](https://curriculum-content.s3.amazonaws.com/ios/ios-objc-fundamentals-unit/interpolate_debug.png)
+
 
 ### A. Dalek
 
