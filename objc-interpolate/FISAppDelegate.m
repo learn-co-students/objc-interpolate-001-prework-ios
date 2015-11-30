@@ -13,6 +13,9 @@
      
      */
     
+    // A.
+    NSLog(@"Dalek");
+    
     // Do not alter
     return YES;  //
     ///////////////
