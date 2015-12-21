@@ -6,16 +6,18 @@
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
     // Override point for customization after application launch.
-    
+
     /*
-     
+
      * Write your code here!
-     
+
      */
-    
+
     // A.
     NSLog(@"Dalek");
-    
+    NSLog(@"%@", @"Dalek");
+    NSLog(@"%@%@%@%@%@" , @"D" , @"a" , @"l" , @"e" , @"k");
+
     // Do not alter
     return YES;  //
     ///////////////
