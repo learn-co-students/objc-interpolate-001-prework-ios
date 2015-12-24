@@ -38,6 +38,7 @@
     
     NSLog(@"You are %@ %@!", @"not", @"The Dcotor");
     
+    NSLog(@"I hope this works!");
     
     // Do not alter
     return YES;  //
