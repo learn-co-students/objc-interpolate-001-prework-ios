@@ -5,17 +5,12 @@
 @implementation FISAppDelegate
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
-    // Override point for customization after application launch.
     
-    /*
-     
-     * Write your code here!
-     
-     */
+    NSLog(@"Batuhan");
+    NSLog(@"Merhaba %@",@"Batuhan");
+    NSLog(@"Merhaba %@%@%@%@%@%@%@",@"B",@"A",@"T",@"U",@"H",@"A",@"N");
     
-    // Do not alter
-    return YES;  //
-    ///////////////
+    return YES;
 }
 
 @end
