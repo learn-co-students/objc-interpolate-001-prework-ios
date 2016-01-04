@@ -13,10 +13,12 @@
      
      */
     
-    // A.
-    NSLog(@"Dalek");
-    NSLog(@"%@", @"Dalek");
-    NSLog(@"%@%@%@%@%@", @"D", @"a", @"l", @"e", @"k");
+    // B.
+    NSLog(@"Interpolate!");
+    NSLog(@"%@", @"Interpolate!");
+    NSLog(@"%@ %@", @"Interpolate!", @"Interpolate!");
+    NSLog(@"%@%@%@%@!", @"In", @"ter", @"po", @"late");
+    NSLog(@"%@-%@-%@-%@!", @"In", @"ter", @"po", @"late");
     
     // Do not alter
     return YES;  //
