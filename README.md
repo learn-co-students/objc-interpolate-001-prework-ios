@@ -93,4 +93,4 @@ YouarenotTheDoctor!
 You are not The Doctor!
 You are not The Doctor!
 ```
-<a href='https://learn.co/lessons/objc-interpolate' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/objc-interpolate' title='Interpolate!'>Interpolate!</a> on Learn.co and start learning to code for free.</p>
