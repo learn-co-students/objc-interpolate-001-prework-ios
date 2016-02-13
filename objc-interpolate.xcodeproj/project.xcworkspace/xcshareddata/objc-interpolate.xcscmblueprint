@@ -1,0 +1,42 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "956B21BFCBB7AF17866F39E9C703AC125DDA9FA2",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "316588715E9A18E8DCA15CAFA5DFE27478201EB2" : 0,
+    "F9805C79BAB210B94A68759E9026981E5591643F" : 0,
+    "956B21BFCBB7AF17866F39E9C703AC125DDA9FA2" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "FF20AB51-CCA6-40F6-BE68-6683AE45F46E",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "316588715E9A18E8DCA15CAFA5DFE27478201EB2" : "..\/..",
+    "F9805C79BAB210B94A68759E9026981E5591643F" : "..",
+    "956B21BFCBB7AF17866F39E9C703AC125DDA9FA2" : "objc-interpolate-001-prework-ios\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "objc-interpolate",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "objc-interpolate.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:zainnadeem\/ios-first-lab-001-prework-ios.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "316588715E9A18E8DCA15CAFA5DFE27478201EB2"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:zainnadeem\/objc-interpolate-001-prework-ios.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "956B21BFCBB7AF17866F39E9C703AC125DDA9FA2"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:zainnadeem\/ios-your-first-NSLog-001-prework-ios.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "F9805C79BAB210B94A68759E9026981E5591643F"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:learn-co-students\/ios-your-first-NSLog-001-prework-ios.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "F9805C79BAB210B94A68759E9026981E5591643F"
+    }
+  ]
+}
