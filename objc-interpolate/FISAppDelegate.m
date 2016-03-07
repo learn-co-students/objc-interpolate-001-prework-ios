@@ -13,6 +13,12 @@
      
      */
     
+    NSLog(@"You are not The Doctor");
+    NSLog(@"%@", @"You are not The Doctor!");
+    NSLog(@"%@%@%@%@%@%@", @"You", @"are", @"not", @"The", @"Doctor", @"!");
+    NSLog(@"%@ %@ %@ %@ %@%@", @"You", @"are", @"not", @"The", @"Doctor", @"!");
+    NSLog(@"You are %@ %@!", @"the", @"The Doctor"); 
+    
     // Do not alter
     return YES;  //
     ///////////////
