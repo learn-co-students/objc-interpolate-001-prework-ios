@@ -13,7 +13,7 @@
      
      */
     NSLog(@"Interpolate!");
-    NSLog(@"%s","Interpolate!");
+    NSLog(@"%@",@"Interpolate!");
     NSLog(@"%@ %@",@"Interpolate!",@"Interpolate!");
     NSLog(@"%@%@%@%@!",@"In",@"ter",@"po",@"late");
     NSLog(@"%@-%@-%@-%@!",@"In",@"ter",@"po",@"late");
