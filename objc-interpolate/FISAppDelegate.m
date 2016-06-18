@@ -12,7 +12,9 @@
      * Write your code here!
      
      */
-    
+    NSLog(@"Dalek");
+    NSLog(@"%@", @"Dalek");
+    NSLog(@"%@%@%@%@%@", @"D", @"a", @"l", @"e", @"k");
     // Do not alter
     return YES;  //
     ///////////////
