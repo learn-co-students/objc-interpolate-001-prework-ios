@@ -20,6 +20,10 @@
      NSLog(@"%@%@%@%@!", @"In", @"ter", @"po", @"late");
      NSLog(@"%@-%@-%@-%@!", @"In", @"ter", @"po", @"late");
      NSLog(@"You are not The Doctor!");
+    NSLog(@"%@", @"You are not The Doctor!");
+    NSLog(@"%@%@%@%@%@%@", @"You", @"Are", @"not", @"The", @"Doctor", @"!");
+    NSLog(@"%@ %@ %@ %@ %@%@", @"You", @"are", @"not", @"The", @"Doctor", @"!");
+    NSLog(@"You are %@ %@!", @"not", @"The Doctor");
     // Do not alter
     return YES;  //
     ///////////////
