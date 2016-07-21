@@ -5,6 +5,19 @@
 @implementation FISAppDelegate
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
+    
+    
+   NSLog(@"You are not The Doctor!");
+    
+    NSLog(@"%@", @"You are not The Doctor!");
+    
+    NSLog(@"%@%@%@%@%@%@", @"You", @"are", @"not", @"The", @"Doctor", @"!");
+    
+    NSLog(@"%@ %@ %@ %@ %@%@", @"You", @"are", @"not", @"The", @"Doctor", @"!");
+    
+    NSLog(@"You are %@ %@!", @"not", @"The Doctor");
+    
+    
     // Override point for customization after application launch.
     
     /*
