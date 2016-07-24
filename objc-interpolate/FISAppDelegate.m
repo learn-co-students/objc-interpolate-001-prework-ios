@@ -12,7 +12,7 @@
      * Write your code here!
      
      */
-    
+    NSLog(@"You are %@ the %@!", @"not", @"doctor");
     // Do not alter
     return YES;  //
     ///////////////
