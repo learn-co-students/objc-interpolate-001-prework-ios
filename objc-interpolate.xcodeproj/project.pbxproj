@@ -72,13 +72,14 @@
 			path = Tests;
 			sourceTree = "<group>";
 		};
-		0ABF55C323C8284EAAFCB257 /* Resources */ = {
+		0ABF55C323C8284EAAFCB257 /* Stuff */ = {
 			isa = PBXGroup;
 			children = (
 				00AD3105CC245C1E899C348F /* Images.xcassets */,
 				44182D237F70436518F039FD /* LaunchScreen.xib */,
 				4DA5080663453B96803BE952 /* Other-Sources */,
 			);
+			name = Stuff;
 			path = Resources;
 			sourceTree = "<group>";
 		};
@@ -135,7 +136,7 @@
 		B344AB7D183B6364FC5A2288 /* UnitTests */ = {
 			isa = PBXGroup;
 			children = (
-				E5A4DA408FCE9D8DB8321C53 /* Resources */,
+				E5A4DA408FCE9D8DB8321C53 /* Stuff */,
 				079CAF12D89D112B4A5CF0D4 /* Tests */,
 			);
 			path = UnitTests;
@@ -147,17 +148,18 @@
 				B52328B63769EEB15B6E6794 /* FISAppDelegate.h */,
 				1D2CC712EB70552BAE4FECAE /* FISAppDelegate.m */,
 				7A69D0BDB7FF21F2F4067EE0 /* Main.storyboard */,
-				0ABF55C323C8284EAAFCB257 /* Resources */,
+				0ABF55C323C8284EAAFCB257 /* Stuff */,
 			);
 			path = "objc-interpolate";
 			sourceTree = "<group>";
 		};
-		E5A4DA408FCE9D8DB8321C53 /* Resources */ = {
+		E5A4DA408FCE9D8DB8321C53 /* Stuff */ = {
 			isa = PBXGroup;
 			children = (
 				A3CB471F2DEE87EB0AD380B1 /* UnitTests-Info.plist */,
 				2C41296D1347CD1105834446 /* UnitTests-Prefix.pch */,
 			);
+			name = Stuff;
 			path = Resources;
 			sourceTree = "<group>";
 		};
