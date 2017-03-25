@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "956B21BFCBB7AF17866F39E9C703AC125DDA9FA2",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "956B21BFCBB7AF17866F39E9C703AC125DDA9FA2" : 0,
+    "39D6FE7DE96ABD7A09CAE05600530052CC80B852" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "F9361999-1E20-4423-A7B3-91CD241E9654",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "956B21BFCBB7AF17866F39E9C703AC125DDA9FA2" : "objc-interpolate-001-prework-ios\/",
+    "39D6FE7DE96ABD7A09CAE05600530052CC80B852" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "objc-interpolate",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "objc-interpolate.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/saadriz\/testproject.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "39D6FE7DE96ABD7A09CAE05600530052CC80B852"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/saadriz\/objc-interpolate-001-prework-ios.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "956B21BFCBB7AF17866F39E9C703AC125DDA9FA2"
+    }
+  ]
+}
