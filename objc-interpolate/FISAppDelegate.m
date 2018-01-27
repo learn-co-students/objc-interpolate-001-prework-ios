@@ -12,6 +12,21 @@
      * Write your code here!
      
      */
+    NSLog(@"Dalek");
+    NSLog(@"%@", @"Dalek");
+    NSLog(@"%@%@%@%@%@",@"D",@"a",@"l",@"e",@"k");
+    
+    NSLog(@"Interpolate!");
+    NSLog(@"%@", @"Interpolate!");
+    NSLog(@"%@%@", @"Interpolte!",@"Interpolate!");
+    NSLog(@"%@%@%@%@!", @"In",@"ter",@"po",@"late");
+    NSLog(@"%@-%@-%@-%@!",@"In",@"ter",@"po",@"late");
+    
+    NSLog(@"You are not The Doctor!");
+    NSLog(@"%@",@"You are not The Doctor!");
+    NSLog(@"%@%@%@%@%@%@",@"You",@"are",@"not",@"The",@"Doctor",@"!");
+    NSLog(@"%@ %@ %@ %@ %@%@",@"You",@"are",@"not",@"The",@"Doctor",@"!");
+    NSLog(@"You are not %@ %@!", @"the", @"Doctor" );
     
     // Do not alter
     return YES;  //
