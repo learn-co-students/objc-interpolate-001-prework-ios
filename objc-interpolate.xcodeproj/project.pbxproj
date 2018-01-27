@@ -13,6 +13,7 @@
 		8E8E5DCCA6FAC9536D094445 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7A69D0BDB7FF21F2F4067EE0 /* Main.storyboard */; };
 		97E4A3817DF147BD3C41FA1B /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 00AD3105CC245C1E899C348F /* Images.xcassets */; };
 		A41A87C1FA2BCA0A2020B342 /* libPods-unit_tests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 7C484DD1D2743F0871540518 /* libPods-unit_tests.a */; };
+		AF79E1791C93211A00AB0B3E /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = AF79E1781C93211A00AB0B3E /* Default-568h@2x.png */; };
 		CE27D72ECDBA7B05906F07E3 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = ADBF0460C581EF74EBE2538E /* Foundation.framework */; };
 /* End PBXBuildFile section */
 
@@ -40,6 +41,7 @@
 		A3CB471F2DEE87EB0AD380B1 /* UnitTests-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "UnitTests-Info.plist"; sourceTree = "<group>"; };
 		A8471FB2074AB65124901EF6 /* objc-interpolate-Prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "objc-interpolate-Prefix.pch"; sourceTree = "<group>"; };
 		ADBF0460C581EF74EBE2538E /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
+		AF79E1781C93211A00AB0B3E /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
 		B20A17C12718C38C80DC15AD /* Pods-unit_tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-unit_tests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-unit_tests/Pods-unit_tests.debug.xcconfig"; sourceTree = "<group>"; };
 		B52328B63769EEB15B6E6794 /* FISAppDelegate.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = FISAppDelegate.h; sourceTree = "<group>"; };
 		D80BCFC36FB77AA0A581C9CE /* objc-interpolate.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "objc-interpolate.app"; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -121,6 +123,7 @@
 		97E0B1E19BB3472F5760734E = {
 			isa = PBXGroup;
 			children = (
+				AF79E1781C93211A00AB0B3E /* Default-568h@2x.png */,
 				D6B4A0C691249DBD2BC13871 /* objc-interpolate */,
 				B344AB7D183B6364FC5A2288 /* UnitTests */,
 				EE0D63149AB9A1600E9AE635 /* Frameworks */,
@@ -252,6 +255,7 @@
 			files = (
 				97E4A3817DF147BD3C41FA1B /* Images.xcassets in Resources */,
 				8E8E5DCCA6FAC9536D094445 /* Main.storyboard in Resources */,
+				AF79E1791C93211A00AB0B3E /* Default-568h@2x.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -360,7 +364,7 @@
 				GCC_WARN_UNUSED_LABEL = YES;
 				GCC_WARN_UNUSED_VALUE = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 6.1;
 				RUN_CLANG_STATIC_ANALYZER = YES;
 				SDKROOT = iphoneos;
 				VALIDATE_PRODUCT = YES;
@@ -442,7 +446,7 @@
 				GCC_WARN_UNUSED_LABEL = YES;
 				GCC_WARN_UNUSED_VALUE = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 6.1;
 				ONLY_ACTIVE_ARCH = YES;
 				RUN_CLANG_STATIC_ANALYZER = YES;
 				SDKROOT = iphoneos;

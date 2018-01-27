@@ -12,6 +12,7 @@
      * Write your code here!
      
      */
+    NSLog(@"Dalek");
     
     // Do not alter
     return YES;  //
