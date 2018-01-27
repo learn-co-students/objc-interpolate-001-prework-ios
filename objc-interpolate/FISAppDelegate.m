@@ -12,6 +12,15 @@
      * Write your code here!
      
      */
+    NSLog(@"Beelzebub");
+    NSLog(@"%@",@"Beelzebub");
+    NSLog(@"%@%@%@%@%@", @"d", @"a", @"l", @"e", @"k");
+    
+    NSLog(@"Interpolate!");
+    NSLog(@"You are not the Doctor!");
+    NSLog(@"%@", @"You are not The Doctor!");
+    NSLog(@"%@%@%@%@%@%@", @"You", @"are", @"not", @"the", @"Doctor", @"!");
+    NSLog(@"You are %@ %@", @"not", @"The Doctor!"); 
     
     // Do not alter
     return YES;  //
