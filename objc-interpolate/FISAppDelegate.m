@@ -7,11 +7,24 @@
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
     // Override point for customization after application launch.
     
-    /*
-     
-     * Write your code here!
-     
-     */
+    //section 1
+    NSLog(@"Dalek");
+    NSLog(@"%@",@"Dalek");
+    NSLog(@"%@%@%@%@%@",@"D",@"a",@"l",@"e",@"k");
+    
+    //section 2
+    NSLog(@"Interpolate!");
+    NSLog(@"%@", @"Interpolate!");
+    NSLog(@"%@ %@", @"Interpolate!",@"Interpolate!");
+    NSLog(@"%@%@%@%@!", @"In", @"ter", @"po",@"late");
+    NSLog(@"%@-%@-%@-%@!", @"In", @"ter", @"po",@"late");
+    
+    //section3
+    NSLog(@"You are not The Doctor!");
+    NSLog(@"%@",@"You are not The Doctor!");
+    NSLog(@"%@%@%@%@%@%@",@"You",@"are",@"not",@"The",@"Doctor",@"!");
+    NSLog(@"%@ %@ %@ %@ %@%@",@"You",@"are",@"not",@"The",@"Doctor",@"!");
+    NSLog(@"You are %@ %@!", @"not", @"The Doctor");
     
     // Do not alter
     return YES;  //
