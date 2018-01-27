@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "956B21BFCBB7AF17866F39E9C703AC125DDA9FA2",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "956B21BFCBB7AF17866F39E9C703AC125DDA9FA2" : 0,
+    "C17CC658D88E1A7A7E4A6150FED423C15EB51D9A" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "0150EFFA-DAF2-4F03-B8C9-6CBC82E7C8CA",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "956B21BFCBB7AF17866F39E9C703AC125DDA9FA2" : "objc-interpolate-001-prework-ios\/",
+    "C17CC658D88E1A7A7E4A6150FED423C15EB51D9A" : ".."
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "objc-interpolate",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "objc-interpolate.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:linocchio\/objc-interpolate-001-prework-ios.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "956B21BFCBB7AF17866F39E9C703AC125DDA9FA2"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:SwiftMission\/iOSGit.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "C17CC658D88E1A7A7E4A6150FED423C15EB51D9A"
+    }
+  ]
+}
